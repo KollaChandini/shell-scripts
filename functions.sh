@@ -27,3 +27,17 @@ calculate_sum() {
 
 result=$(calculate_sum 10 20)
 echo "sum: $result"
+
+#4.
+global_var="i am global"
+
+local_variables(){
+    local local_var="i am local"
+    echo "inside_function: $local_var"
+    echo "outside_function: $global_var"
+}
+
+local_variables
+
+echo "$local_var"
+echo "$global_var"
