@@ -1,0 +1,26 @@
+total 40
+-rw-r--r-- 1 kolla 197609   32 Jul 24 09:48 1.txt
+-rw-r--r-- 1 kolla 197609    0 Jul 24 09:55 2.txt
+-rwxr-xr-x 1 kolla 197609  157 Jun 14 11:26 ansible.sh
+-rwxr-xr-x 1 kolla 197609  442 Jul 23 12:20 arrays.sh
+-rwxr-xr-x 1 kolla 197609  333 Jul 23 11:32 aws-cli-install.sh
+-rwxr-xr-x 1 kolla 197609  201 Jun  1 12:58 case-statements.sh
+-rwxr-xr-x 1 kolla 197609  225 Jul 23 20:19 cla.sh
+-rwxr-xr-x 1 kolla 197609 1042 May 31 17:58 docker-dockercompose-install.sh
+-rwxr-xr-x 1 kolla 197609  470 Jul 23 11:32 Dockle-install.sh
+-rwxr-xr-x 1 kolla 197609  291 Jul 24 09:44 error.sh
+-rwxr-xr-x 1 kolla 197609  181 Jun  3 20:26 for-loop.sh
+-rwxr-xr-x 1 kolla 197609  612 Jul 23 11:29 functions.sh
+-rwxr-xr-x 1 kolla 197609  175 Jun  1 12:58 if-elif-else.sh
+-rwxr-xr-x 1 kolla 197609  442 Jun  2 21:13 jenkins-install.sh
+-rwxr-xr-x 1 kolla 197609 1167 Jul 23 11:32 k8.sh
+-rwxr-xr-x 1 kolla 197609   72 Jul 23 11:32 maven-install.sh
+-rwxr-xr-x 1 kolla 197609   93 Jul 24 09:55 piped.sh
+-rwxr-xr-x 1 kolla 197609  215 Jun  1 12:04 quotes.sh
+-rwxr-xr-x 1 kolla 197609  395 Jul 23 11:53 string.sh
+-rwxr-xr-x 1 kolla 197609  396 Jun 14 11:35 Terraform.sh
+-rwxr-xr-x 1 kolla 197609  378 Jul 23 11:32 trivy-install.sh
+-rwxr-xr-x 1 kolla 197609  147 Jun  3 20:38 until-loop.sh
+-rwxr-xr-x 1 kolla 197609  508 Jun  1 12:30 userinput.sh
+-rwxr-xr-x 1 kolla 197609  633 May 31 18:42 variables.sh
+-rwxr-xr-x 1 kolla 197609  141 Jun  3 20:35 while-loop.sh
